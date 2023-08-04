@@ -1,5 +1,5 @@
 > [!NOTE]
-> As this is a project developed for the course ECE297, the code for the project is not available.
+> As this is a project developed for the course ECE297 at the University of Toronto, the code for the project is not available.
 
 # ByteMap
 A GIS Program coded with C++ and using the OpenStreetMap API. This was a project produced by a team of 3 for ECE297 (Software Design) at the University of Toronto
